@@ -1,6 +1,6 @@
 # 📝 Todolist
 
-- Built with React, Vite, and Tailwind CSS  
+- Built with React, Tailwind CSS, and Vite 
 - Uses localStorage to save tasks  
 - Manages state with React Context API  
 - Responsive and easy to use  
