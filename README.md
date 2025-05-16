@@ -9,6 +9,3 @@
 
 Live on: [https://todolist909.netlify.app/](https://todolist909.netlify.app/)
 
----
-
-Created by **divxodyssey**
