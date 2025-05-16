@@ -1,11 +1,10 @@
 # 📝 Todolist
 
-A responsive To-Do List app built with React, Vite, and Tailwind CSS. It uses localStorage for saving tasks and React Context API for state management.
+- Built with React, Vite, and Tailwind CSS  
+- Uses localStorage to save tasks  
+- Manages state with React Context API  
+- Responsive and easy to use  
 
 ---
 
-## Live Demo
-
-Check the live deployed app here: [https://todolist909.netlify.app/](https://todolist909.netlify.app/)
-
----
+Live on: https://todolist909.netlify.app/
